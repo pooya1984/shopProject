@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Winter body",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
+      "price": 110,
+      "maxQuantity": 10,
+      "quantity": 0,
+      "likes": 0,
+      "img": "https://www.patagonia.com/dis/dw/image/v2/ABBM_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw77733998/images/hi-res/84212_NAD.jpg?sw=300&sh=300&sfrm=png"
+    },
+    {
+      "id": 2,
+      "title": "Adidas",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
+      "price": 80,
+      "maxQuantity": 10,
+      "quantity": 0,
+      "likes": 0,
+      "img": "https://www.revzilla.com/product_images/0172/8918/revit_airwave2_jacket_silver_black_300x300.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vans",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
+      "price": 120,
+      "maxQuantity": 10,
+      "quantity": 0,
+      "likes": 0,
+      "img": "http://www.adventurebikewarehouse.com/WebRoot/BT3/Shops/BT4672/5894/752B/2C12/8D6C/5D69/0A0C/05B7/8763/klim-kodiak-jacket-grey-front.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Carhartt",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
+      "price": 260,
+      "maxQuantity": 10,
+      "quantity": 0,
+      "likes": 0,
+      "img": "https://content.regatta.com/SBRMP089_540/350/SBRMP089_540_01_bynder_defined_type_product_01.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Nike",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.",
+      "price": 160,
+      "maxQuantity": 10,
+      "quantity": 0,
+      "likes": 0,
+      "img": "https://media.endclothing.com/media/f_auto,q_auto:eco,w_400,h_400/prodmedia/media/catalog/product/2/5/25-01-2019_alphaindustries_ma-1vf59flightjacket_sagegreen_191118-01_blr_1.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Alpha Industries",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, ex.adipisicing elit. Minima, ex. elit. Minima, ex.adipisicing elit.elit. Minima, ex.adipisicing elit.",
+      "price": 90,
+      "maxQuantity": 10,
+      "quantity": 0,
+      "likes": 0,
+      "img": "https://images-na.ssl-images-amazon.com/images/I/61GbHjfqk2L._UX385_.jpg"
+    }
+  ],
+  "nextCollection":{
+    "getUrl": [
+      "https://static1.squarespace.com/static/577fdfff1b631b47256f983d/589a80f7725e250f8643305c/5969136646c3c4b3ddb6c022/1500058480106/OK+Ladies+Soft+Shell+Jacket.png?format=300w",
+      "https://www.montbell.us/products/prod_img/large/k_2301237_dvgy.jpg",
+      "https://www.carinthia.eu/userdata/mysydeshop/images/tumb_3/7323_isg-jacket-olive-01.jpg",
+      "https://www.carinthia.eu/userdata/mysydeshop/images/tumb_3/7289_isg-jacket-black-01.jpg",
+      "https://cdn.shopify.com/s/files/1/0049/8728/9715/products/Screen_Shot_2018-07-09_at_9.37.41_PM_400x.png?v=1531450511",
+      "https://valiram.com/wp-content/uploads/2017/05/La-Martina-women%C3%A2%E2%82%AC%E2%84%A2s-double-Cavallery-jacket.png",
+      "https://www.maseratistore.com/media/catalog/product/cache/0/thumbnail/570x570/0dc2d03fe217f8c83829496872af24a0/0/2/02034_1_2.jpg",
+      "https://shop.zipfer.at/wp-content/uploads/2017/01/Zipfer-College-Jacke-Unisex.jpg"
+
+    ],
+    "getText": [
+      "OK SPORTS JACKET 29,99 EUR",
+      "ABABAS JACKET 129,99 EUR",
+      "TARARA JACKET 99,99 EUR",
+      "LALALA JACKET 68,99 EUR",
+      "LOPOLOP JACKET 145,99 EUR",
+      "FAFAFA JACKET 19,99 EUR",
+      "TRALALA JACKET 89,99 EUR",
+      "XOLOP JACKET 125,99 EUR"
+    ]
+  },
+  "card": {
+      "addedItems": [],
+      "total": 0
+  },
+  "owner": [
+    {
+      "name": "Bradley Parker",
+      "company": "Just Jacket",
+      "address": "Max-Beer-Straße 13,10119 Berlin",
+      "tax_number": "123456789",
+      "email": "bradley.parker@mail.com",
+      "phone": "+49 30 111222333",
+      "lat": 52.525541,
+      "lon": 13.40805,
+      "storeImage": "https://scontent.ftxl3-1.fna.fbcdn.net/v/t1.0-9/14222251_1770596449874675_258352237355920430_n.jpg?_nc_cat=107&_nc_ht=scontent.ftxl3-1.fna&oh=9000856bbecb498170ca27a13660b2c9&oe=5D195D9E"
+    }
+  ]
+
+  
+}
+  

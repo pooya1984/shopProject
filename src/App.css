@@ -1,0 +1,112 @@
+.App {
+  list-style-type: none;
+}
+
+
+.home-container{
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+  margin:20px;
+  padding: 20px;
+  justify-content: space-around;
+  border: 1px solid rgb(165, 163, 163)
+}
+
+.cart-container{
+  border:1px solid black;
+}
+
+.home-container img {
+  width: 80%;
+}
+
+.desc-container {
+  margin-top: 15%;
+}
+/* .desc-container {
+  width: 10%;
+} */
+.glyphicon{
+  margin-top: 1em;
+  font-size: 2em;
+  float:right;
+  padding:3%;
+  background-color: rgb(46, 115, 136);
+  color: white;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+
+
+/* NAVBAR container style */
+.container {
+  position: relative;
+  background-color: #333;
+  color: white;
+  justify-content: space-between;
+  /* float:right; */
+}
+
+.brand-logo {
+  /* position: relative; */
+  list-style-type: none;
+  text-decoration: none;
+  float:left;
+  padding: 14px 16px;
+  color:white;
+
+}
+
+.right {
+  position: relative;
+  float: right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+
+}
+
+.right li {
+  position: relative;
+  float: right;
+}
+
+.right li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.right li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.right .active {
+  background-color: #4CAF50;
+}
+
+
+/* FOOTER container style */
+
+.footer{
+  position: relative;
+  width:100%;
+  list-style-type: none;
+  text-decoration: none;
+  text-align: center;
+  background-color: #333;
+  padding: 14px 16px;
+  color:white;
+  bottom:0;
+}
